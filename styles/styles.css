@@ -103,14 +103,12 @@ ul{
 
 
 @media screen and (max-width: 576px) {
-   .body{
-        border: 1px solid red;
+   .container{
+        margin-top: -20px;
+        border: 1px solid rgba(254, 163, 1, 1)red;
         
-        justify-content: space-between;
    }
-    .hamburger-menu {
-        border-radius: 1px solid red;
-    }
+    
     .container h3 , .ul ,a,.contact-btn {
         display: none;
     }
