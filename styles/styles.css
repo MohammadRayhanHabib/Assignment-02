@@ -185,16 +185,15 @@ ul{
         text-align: center;
         font-size: 14px;
         font-weight: 600;
+        margin-top: 18px;
     }
     .btn-enroll{
         display: flex;
-        justify-items: center;
         justify-content: center;
-        align-items: center;
+        margin-right: 18px;
     }
    .enroll-btn{
         padding: 6px 24px;
-        
         font-size: 16px;
    }
 }
